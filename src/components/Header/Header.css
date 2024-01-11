@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 98, 0, 0.836),
+    rgba(255, 255, 255, 0.01),
+    rgba(21, 156, 0, 0.7)
+  );
+}
+
+.rahat-logo {
+  margin-left: 2rem;
+}
+
+.login-button {
+  color: white;
+  margin-right: 2rem;
+  border: none;
+  background: none;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
